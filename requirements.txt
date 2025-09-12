@@ -1,0 +1,8 @@
+streamlit
+groq
+pypdf
+python-docx
+python-pptx
+beautifulsoup4
+pandas
+numpy
